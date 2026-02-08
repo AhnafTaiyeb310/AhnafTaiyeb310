@@ -51,7 +51,7 @@ Currently looking for **internship or junior full-stack developer roles** where 
 - JWT authentication, user roles, CRUD posts
 - REST API with React frontend
 - **Tech:** React, Django REST Framework, PostgreSQL  
-- 📂 Repo: (coming soon)
+- 📂 Repo: https://github.com/AhnafTaiyeb310/blog-app
 
 ---
 
